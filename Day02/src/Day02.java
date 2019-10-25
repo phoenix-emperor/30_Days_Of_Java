@@ -36,8 +36,5 @@ public class Day02 {
 			i++;
 		} while (i < 10);
 			
-		
-		
-		
 	}
 }
